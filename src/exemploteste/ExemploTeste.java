@@ -43,6 +43,7 @@ public class ExemploTeste extends Application {
         launch(args);
         System.out.println("Olá, isto é um teste");
         System.out.println("criamos uma nova branch");
+        System.out.println("Vamos reverter um error!");
     }
     
 }
