@@ -42,7 +42,7 @@ public class ExemploTeste extends Application {
     public static void main(String[] args) {
         launch(args);
         System.out.println("Olá, isto é um teste");
-        System.out.println("criamos uma nova branch");
+        System.out.println("Versão Final!");
     }
     
 }
